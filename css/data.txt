@@ -1,8 +1,0 @@
-welocme to my first git repository practice session
-welocme to aws devops
-welcome to azure devops
-welcome to terraform
-welocme to chat gpt
-welcome to cloud computing
-
-
