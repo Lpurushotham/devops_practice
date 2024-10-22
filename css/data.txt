@@ -1,0 +1,3 @@
+welocme to my first git repository practice session
+welocme to aws devops
+
